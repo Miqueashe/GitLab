@@ -1,6 +1,7 @@
 blockquote {
-  border-left: 4px solid #ccc;
-  margin: 0;
-  padding: 0.5em 1em;
-  color: #555;
+  border-left: 4px solid #333; 
+  font-style: italic; 
+  background-color: #f9f9f9; 
+  padding: 1em;
+  color: #222; 
 }
